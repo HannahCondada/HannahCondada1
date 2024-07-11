@@ -51,7 +51,7 @@ FEU Roosevelt Rodriguez<br>
 
 <br>
 
-### Software Engineering Design Patternns
+### Software Engineering Design Patterns
 ### 🟢 [Facade Pattern](https://github.com/HannahCondada/Facade-Pattern.git)
 ### 🟢 [Builder Pattern](https://github.com/HannahCondada/Builder-Pattern.git)
 ### 🟢 [Strategy Pattern](https://github.com/HannahCondada/Strategy-Pattern.git)
