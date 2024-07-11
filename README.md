@@ -58,11 +58,14 @@ FEU Roosevelt Rodriguez<br>
 ### 🟢 [State Pattern](https://github.com/HannahCondada/State-Pattern.git)
 ### 🟢 [Visitor Pattern](https://github.com/HannahCondada/VisitorPattern.git)
 
+<br>
+
+### ➡️ [Click this to visit my Google website for more information! 😊](https://sites.google.com/view/hannahcondada/home)
 
 <br><br>
 
 # 🌐 Socials
-![Static Badge](https://img.shields.io/badge/LinkedIn-%23466e85?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhannah-condada-906125258%2F): [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)<br><br>
+### LinkedIn: [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)<br><br>
 
 # 💻 Skillset
 ### Data Visualization Tools
@@ -72,6 +75,7 @@ FEU Roosevelt Rodriguez<br>
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23363534?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
