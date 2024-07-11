@@ -25,7 +25,7 @@ FEU Roosevelt Rodriguez<br>
 
 <br><br>
 
-# 📜 Certification
+## 📜 Certification
 
 <h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>June 28, 2024</h3>
 
@@ -48,6 +48,16 @@ FEU Roosevelt Rodriguez<br>
 ### ⚪ [Snack Food Sales Report](https://app.powerbi.com/view?r=eyJrIjoiNTI5MzI4NWUtNWJhNi00Mjc5LTlhOTYtZDFiZWNlODQwMGE3IiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
 ### ⚪ [Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiNWYxOTc4NGUtZDQzMS00OTkyLTlkZDUtNGRjMWY3YzZlNGFmIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
 ### ⚪ [Sales Fact](https://app.powerbi.com/view?r=eyJrIjoiNTY0Y2RlZmQtNTA0My00YWM0LWIwZmEtZmVmNDA2ZThjYzIwIiwidCI6IjMyYmFmZWQ1LTIyNjgtNDAzNS05YzA3LTI3OWFkOTAwYTRiYSIsImMiOjEwfQ%3D%3D)
+
+<br>
+
+### Software Engineering Design Patternns
+### 🟢 [Facade Pattern](https://github.com/HannahCondada/Facade-Pattern.git)
+### 🟢 [Builder Pattern](https://github.com/HannahCondada/Builder-Pattern.git)
+### 🟢 [Strategy Pattern](https://github.com/HannahCondada/Strategy-Pattern.git)
+### 🟢 [State Pattern](https://github.com/HannahCondada/State-Pattern.git)
+### 🟢 [Visitor Pattern](https://github.com/HannahCondada/VisitorPattern.git)
+
 
 <br><br>
 
