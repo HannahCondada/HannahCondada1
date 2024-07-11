@@ -13,8 +13,25 @@ Check out my GitHub repositories to see the cool projects and assignments I've t
 
 Got a collaboration idea or a question? Don't hesitate to hit me up via email or phone. Let's make some tech magic together!<br><br><br>
 
+# 🎓 Education
+## 2021 - Current:
+New Era University
+Bachelor of Science in Computer Science
+## 2021: Senior High School
+New Era University
+Information and communication technology
+## 2018: Junior High School
+FEU Roosevelt
+
+<br><br>
+
+# 📜 Certification
+
+# 💻 Tech Achievement
+
+
 # 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hannah-condada-906125258/) <br><br>
+![Static Badge](https://img.shields.io/badge/LinkedIn-%23466e85?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhannah-condada-906125258%2F): [Hannah Condada](https://www.linkedin.com/in/hannah-condada-906125258/)<br><br>
 
 # 💻 Skillset
 ### Data Visualization Tools
@@ -41,6 +58,8 @@ Got a collaboration idea or a question? Don't hesitate to hit me up via email or
 
 ### Server
 ![Laragon](https://img.shields.io/badge/laragon-%2380cced?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/xampp-%23ba7636?style=for-the-badge)
+
 
 ### Creative
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
@@ -65,3 +84,8 @@ Got a collaboration idea or a question? Don't hesitate to hit me up via email or
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HannahCondada&icon=7&color=8)](https://visitcount.itsvg.in)
+
+
+# 📃 Certificates
+
+
