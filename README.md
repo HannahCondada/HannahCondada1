@@ -24,7 +24,7 @@ FEU Roosevelt Rodriguez<br>
 
 <br><br>
 
-## 📜 Certification
+# 📜 Certification
 
 <h3 align=""><a href ="https://www.credly.com/badges/11937909-7799-4815-9e3c-99c45822d3bc">Artificial Intelligence Fundamentals</a><br>June 28, 2024</h3>
 
