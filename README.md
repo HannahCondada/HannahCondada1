@@ -116,7 +116,3 @@ FEU Roosevelt Rodriguez<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=HannahCondada&icon=7&color=8)](https://visitcount.itsvg.in)
 
-
-# 📃 Certificates
-
-
