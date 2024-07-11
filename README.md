@@ -2,7 +2,6 @@
 <br>
 ✉️ Email: condadahannahl@gmail.com<br>
 📱 Contact Number: +63 966 406 9386<br>
-🎓 Education: Incoming 4th year, Bachelor's Degree in Computer Science, New Era University<br><br>
 
 ## 🙋🏽‍♀️ Hey there! <br>
 I'm Hannah L. Condada, a fierce and driven Computer Science student stepping into my fourth year at New Era University.
